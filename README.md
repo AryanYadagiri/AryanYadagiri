@@ -2,7 +2,7 @@
 - 👀 I’m interested in Penetration Testing
 - 🌱 I’m currently learning B.Sc IT
 - 💞️ I’m looking to collaborate on : TBH I am new = True && Idea = NULL;
-- 📫 How to reach me : Instagram @mayybearyan
+- 📫 How to reach me : aryanyadagiri15@gmail.com
 
 <!---
 AryanYadagiri/AryanYadagiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
